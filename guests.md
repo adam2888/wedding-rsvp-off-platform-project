@@ -15,3 +15,4 @@
 | Julian           | 3                |
 | Maxibon          | 5                |
 | Adam             | 2                |
+| Adam             | 2                |
